@@ -6,5 +6,5 @@ public class Constants {
     public static final String OBJECT_ID = "objectId";
     public static final String SUCCESS = "success";
     public static final String FAIL = "fail";
-
+    public static final  String NAME="U家1.5";
 }
