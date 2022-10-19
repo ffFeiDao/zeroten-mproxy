@@ -16,7 +16,7 @@
         <jettyVersion>9.4.11.v20180605</jettyVersion>
 
         <spring.version>5.0.7.RELEASE</spring.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <guava.version>23.0</guava.version>
         <joda-time.version>2.10.1</joda-time.version>
     </properties>
